@@ -1,0 +1,9 @@
+# Workspace tooling and installed dependencies
+node_modules/
+.autoclaw/
+.agents/
+.claude/
+
+# Legacy root scaffold (the deployable app lives in vite_portfolio/)
+/src/
+/public/
